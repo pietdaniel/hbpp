@@ -146,15 +146,27 @@ managers are dumb
 
 ---
 
+![](static/dumb-manager.jpg)
+
+---
+
 computers are hard
 
 ---
 
-![](confused-grandma.jpg)
+![](static/confused-grandma.jpg)
 
 ---
 
 no one talks to you
+
+---
+
+kanban boards are dumb
+
+---
+
+too much cardio (sprints)
 
 ---
 
