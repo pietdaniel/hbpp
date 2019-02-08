@@ -34,7 +34,11 @@ im dan
 
 ---
 
-i work in software
+and im matt
+
+---
+
+we work in software
 
 ---
 
@@ -115,6 +119,42 @@ and you get to be on the computer all day
 ---
 
 which is what you would be doing anyway
+
+---
+
+some engineers work in open offices
+
+---
+
+![](static/sad-office.jpg)
+
+---
+
+some pretend one is better than the other
+
+---
+
+you get to work with huge nerds
+
+---
+
+no one showers
+
+---
+
+managers are dumb
+
+---
+
+computers are hard
+
+---
+
+![](confused-grandma.jpg)
+
+---
+
+no one talks to you
 
 ---
 
