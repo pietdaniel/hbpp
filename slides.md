@@ -50,7 +50,11 @@ we work in software
 
 ---
 
-TODO 2-3 pictures of dogs
+![](./static/dog-1.jpg)
+
+---
+
+![](./static/dog-2.jpg)
 
 ---
 
@@ -119,7 +123,7 @@ being a software engineer is great too
 
 ---
 
-TODO picture of boss from office space
+![](static/manager.jpg)
 
 ---
 
@@ -127,14 +131,11 @@ the workplace is very safe
 
 ---
 
-![](static/rsi.png)
+![](static/rsi.jpg)
 
 
 ---
 
-TODO better pictures of RSI / carpool tunnels
-
----
 
 you get to be on the computer all day
 
