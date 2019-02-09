@@ -632,9 +632,6 @@ at datadog we help make software reliable
 
 ---
 
-TODO pictures of datadog
-
----
 
 with state of the art monitoring and observability tools
 
