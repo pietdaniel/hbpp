@@ -181,7 +181,7 @@ _no one showers_
 ---
 
 TODO
-![](static/neckbeard.jpg)
+![](static/rms.jpg)
 
 ---
 
