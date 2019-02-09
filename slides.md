@@ -657,6 +657,6 @@ If you want more info
 
 ---
 
-jc@datadogq.com
+jc@datadoghq.com
 
 ---
