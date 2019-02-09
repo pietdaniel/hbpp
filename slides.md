@@ -229,8 +229,7 @@ thanks matt
 
 ---
 
-TODO
-360 no scope nuked kanban gif
+![](static/fried-kanban.png)
 
 ---
 
@@ -246,7 +245,7 @@ but cardio is hard
 
 ---
 
-TODO tired engineer
+![](static/tired-engineer.png)
 
 ---
 
@@ -254,8 +253,7 @@ people think you fix printers
 
 ---
 
-TODO
-picture of printers
+![](static/printer-1.jpg)
 
 ---
 
@@ -263,8 +261,7 @@ people ask you to fix printers
 
 ---
 
-TODO
-zoomed in picture from before
+![](static/printer-2.jpg)
 
 ---
 
@@ -272,8 +269,7 @@ you end up fixing printers
 
 ---
 
-TODO
-360 no scope nuked picture of prinngers
+![](static/printer-3.png)
 
 ---
 
