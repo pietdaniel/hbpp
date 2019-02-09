@@ -26,7 +26,7 @@ the life of living with software
 
 ---
 
-TODO picture of frustration
+![](static/frustration.jpg)
 
 ---
 
@@ -530,7 +530,7 @@ no wat this makes sense
 
 ---
 
-🤔
+![](static/think.jpg)
 
 ---
 
