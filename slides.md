@@ -651,14 +651,22 @@ you can run software with piece of mind
 
 ---
 
-TODO pictures of datadog
+![](static/datadog.gif)
 
 ---
 
-TODO picture of holiday party
+![](static/datadog2.gif)
 
 ---
 
-TODO contact slide
+![](static/datadog3.gif)
+
+---
+
+If you want more info
+
+---
+
+jc@datadogq.com
 
 ---
