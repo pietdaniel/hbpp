@@ -179,6 +179,10 @@ you get to work with huge nerds
 
 ---
 
+![](static/rms.png)
+
+---
+
 _no one showers_
 
 ---
@@ -211,7 +215,7 @@ this one might be a perk
 
 ---
 
-yeah, strike that one off matt
+yeah, strike that one off dan
 
 ---
 
@@ -278,17 +282,16 @@ deadlines are unreasonable
 ---
 
 
-TODO picture of missed deadlines
-
----
-
-
 code reviews can be traumatic
 
 
 ---
 
-TOOD picture of largest number of comments on PR
+![](static/manny-pr-comments.png)
+
+---
+
+![](static/pr-sucks.gif)
 
 ---
 
@@ -296,7 +299,9 @@ waterfall doesnt work
 
 ---
 
-TODO picture of TLC
+
+![](static/tlc.gif)
+
 
 ---
 
@@ -354,7 +359,7 @@ wat
 
 ---
 
-TODO picture wat 1
+![](static/wat-1.png)
 
 ---
 
@@ -400,7 +405,7 @@ wat
 
 ---
 
-TODO picture wat 2
+![](static/wat-2.png)
 
 ---
 
@@ -455,7 +460,7 @@ wat!?!?!
 
 ---
 
-TODO picture wat 3
+![](static/wat-3.png)
 
 ---
 
@@ -491,7 +496,7 @@ wat
 
 ---
 
-TODO picture wat
+![](static/wat-4.png)
 
 ---
 
@@ -525,7 +530,7 @@ no wat this makes sense
 
 ---
 
-TODO picture thinking face emoji or some shit
+🤔
 
 ---
 
@@ -590,7 +595,7 @@ wat
 
 ---
 
-TODO picture wat
+![](static/wat-5.png)
 
 ---
 
@@ -599,10 +604,6 @@ so software is complicated
 ---
 
 and convoluted
-
----
-
-TODO images from softwaregore
 
 ---
 
@@ -620,10 +621,6 @@ and constantly reinvents itself
 ---
 
 what did we learn
-
----
-
-TODO image from burn after reading
 
 ---
 
