@@ -640,10 +640,6 @@ with state of the art monitoring and observability tools
 
 ---
 
-TODO pictures of datadog
-
----
-
 you can run software with piece of mind
 
 ---
