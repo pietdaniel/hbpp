@@ -133,16 +133,17 @@ the workplace is very safe
 
 ![](static/rsi.jpg)
 
-
 ---
-
 
 you get to be on the computer all day
 
 ---
 
+![](static/computer-people-1.png)
 
-TODO pictures of people on computers
+---
+
+![](static/computer-people-2.png)
 
 ---
 
@@ -150,7 +151,11 @@ which is what you would be doing anyway
 
 ---
 
-TODO pictures of people on computers
+![](static/computer-people-3.png)
+
+---
+
+![](static/computer-people-4.png)
 
 ---
 
@@ -158,8 +163,7 @@ some engineers work in open offices
 
 ---
 
-TODO
-![](static/sad-open-office.jpg)
+![](static/open-office.png)
 
 ---
 
@@ -167,8 +171,7 @@ some work in closed offices
 
 ---
 
-TODO
-![](static/sad-closed-office.jpg)
+![](static/closed-office.png)
 
 ---
 
@@ -180,8 +183,7 @@ _no one showers_
 
 ---
 
-TODO
-![](static/rms.jpg)
+![](static/no-shower.jpg)
 
 ---
 
@@ -189,8 +191,7 @@ managers are dumb
 
 ---
 
-TODO
-![](static/dumb-manager.jpg)
+![](static/dumb-manager.png)
 
 ---
 
@@ -198,8 +199,7 @@ computers are hard
 
 ---
 
-TODO
-![](static/confused-grandma.jpg)
+![](static/confused-grandma.png)
 
 ---
 
