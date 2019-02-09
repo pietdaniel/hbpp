@@ -26,7 +26,7 @@ the life of living with software
 
 ---
 
-TODO picture of frustration
+![](static/frustration.jpg)
 
 ---
 
