@@ -525,7 +525,7 @@ no wat this makes sense
 
 ---
 
-TODO picture thinking face emoji or some shit
+![](static/think.jpg)
 
 ---
 
